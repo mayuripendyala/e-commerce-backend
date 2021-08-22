@@ -30,3 +30,6 @@ SO THAT my company can compete with other e-commerce companies
 - Dotenv
 
 # Demo
+View walk through video here - https://youtu.be/MaUiX6NKAMU
+
+<img src="demo/demo.png">
