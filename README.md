@@ -11,7 +11,7 @@ This is the backend part of the E-commerce website. Express.js is used for the s
 AS A manager at an internet retail company
 I WANT a back end for my e-commerce website that uses the latest technologies
 SO THAT my company can compete with other e-commerce companies
-
+```
 ## Installation
 - Both Node.js and MySQL must be installed on your computer.
 - Clone the repo by copying and pasting in your command line: 
@@ -29,7 +29,7 @@ SO THAT my company can compete with other e-commerce companies
 - Sequelize
 - Dotenv
 
-# Demo
+## Demo
 View walk through video here - https://youtu.be/MaUiX6NKAMU
 
 <img src="./demo/demo.png">
